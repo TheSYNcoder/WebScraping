@@ -1,0 +1,6 @@
+lxml
+selenium
+fake_useragent
+shutil
+xlsxwriter
+xlrd
