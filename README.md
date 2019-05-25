@@ -11,3 +11,4 @@ About the scripts ,
 
 * instagram.py is a webscraper made using *beautiful soup* , and *selenium* used to scrape images from Instagram. 
 
+* Codeforces.ipnyb is based on the API of codeforces , and is used to find the number of users in India who is a red coder(above a certain rating in codeforces) and print them along with their handles.This is a small personal project *not* associated with the course.
